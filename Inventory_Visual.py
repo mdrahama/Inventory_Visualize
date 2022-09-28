@@ -4,7 +4,8 @@ import os
 import matplotlib.pyplot as plot
 import seaborn as sb
 import datetime as dt
- %matplotlib inline
+
+%matplotlib inline
 os.chdir("C:\\Users\\ullahm2\\Downloads") 
 cwd = os.getcwd() 
 print (cwd)
